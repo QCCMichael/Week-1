@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Michael Schultz Week 1</title>
+  </head>
+  <body>
+    <p>Hello World!</p>
+    <h1 id="top"> Welcome to ET710 </h1>
+    <h3> <i>Michael Schultz </i> </h3>
+    <p>This is <b>Web Technology</b> class</p>
+    <p>QCC <abbr title="Engineering Technology"> ET </abbr> department </p>
+    <ol type="a">
+    <li>Carrot</li>
+    <li>Mango</li>
+    <li>Grapes</li>
+  </ol>
+Itemss for school:
+  <ul>
+    <li>Pencil</li>
+    <li>Book</li>
+    <li>Eraser</li>
+  </ul>
+  <dl>
+<dt>ET710 - Web Technology</dt>
+<dd>ET 710 focuses on the skills needed to build, maintain, and administrate a website.</dd>
+    </dl>
+    <h2 id="tables">Tables</h2>
+  <table align="center">
+    <tr bgcolor="lightgray" align="center">
+      <td width="100"></td>
+      <td width="100">Saturday</td>
+      <td width="100">Sunday</td>
+    </tr>
+    <tr align="center"
+    <td bgcolor="lightgray"></td>
+      <td>Tickets sold</td>
+    <td>135</td>
+    </tr>
+  <tr align="center">
+  <td bgcolor="lightgray">Total sales</td>
+  <td>$600</td>
+  <td>$675</td>
+</tr>
+</table>
+<hr>
+<h2 id="images">Images</h2>
+<img src="Blue Flower.jpg" alt="Blue Flower" width="200px" title="Pretty Flower">
+<figure>
+  <img src="Blue Flower.jpg" alt="Blue Flower" width="200px" title="Pretty Flower">
+  <img src="Blue Flower.jpg" alt="Blue Flower" width="200px" title="Pretty Flower">
+  <img src="Blue Flower.jpg" alt="Blue Flower" width="200px" title="Pretty Flower">
+<figcaption>Three images of Flowers</figcaption>
+</figure>
+</hr>
+<h2>Hyperlinks</h2>
+<p>Welcome to QCC <a href="https://www.qcc.cuny.edu/" target="_blank">CLICK HERE</a> </p>
+<a href="https://www.amazon.com/"><img src="Blue Flower.jpg" alt="Blue Flower" width="200px" title="Pretty Flower"></a>
+<hr>
+<h2>Connect</h2>
+<figure>
+  <a href="https://www.facebook.com/QueensboroughCUNY" target="_blank"><img src="Facebook.png" alt="Connect to Facebook" title="Keep up with Facebook" width="60px"> </a>
+  <a href="https://www.instagram.com/queensboroughcc_cuny/" target="_blank"><img src="Instagram.png" alt="Instagram logo" title="Connect to Instagram" width="60px">
+  <a href="https://www.snapchat.com" target="_blank"><img src="Snapchat.png" alt="Snapchat logo" title="Join Snapchat" width="60px">
+<p> Send an email to <a href="mailto:hwu@qcc.cuny.edu">professor Wu</a></p>
+</figure>
+<hr>
+<nav>
+  <a href="#top"> GO TO TOP OF THE PAGE </a>
+ <a>|</a>
+  <a href="#tables">TABLES</a>
+  <a>|</a>
+<a href="#images">IMAGES</a>
+</nav>
+
+<hr>
+<ul>
+<a href"thankyou.html"> <li>Internal webpage: go to thankyou.html</li> </a>
+<a href"https://www.qcc.cuny.edu/" target="_blank"> <li>External website: go to QCC website</li> </a>
+</ul>
+<hr>
+<footer align="center">Michael Schultz - Week 1 class @ Feb 7</footer>
+
+  </body>
+</html>
